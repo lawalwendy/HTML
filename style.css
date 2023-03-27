@@ -1,0 +1,112 @@
+.myNav1 {
+    background-color: #1A3C5D;
+    width: 40%;
+    height: 60px;
+}
+
+.myNav1 ul {
+    list-style: none;
+    padding: 0%;
+    margin: 0;
+    display: inline;
+}
+
+.myNav1 ul li {
+    display: inline-block;
+    padding:5px;
+}
+
+.myNav1 ul li a {
+    padding: 50px;
+    color: #E6E6FA;
+    font-family: Roboto;
+    text-decoration: none;
+
+}
+
+.hero {
+    background-image: url(software-source-coding_163855-54.jpg);
+    padding: 100px;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+.name {
+    font-size: 300%;
+    color: wheat;
+    font-weight: 300;
+    font-family: cursive
+
+}
+
+.intro {
+    font-size: x-large;
+    color: wheat;
+    font-family: cursive;
+}
+
+.out {
+    font-size: x-large;
+    font-family: Roboto;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    
+}
+
+.all {
+    background-color: #E6E6FA;
+}
+
+.job {
+    font-family: Roboto;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    font-size: x-large;
+}
+
+.form section {
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-size: x-large;
+    font-family: Roboto;
+}
+
+button {
+    font-weight: 200;
+    padding: 10px;
+    margin:  none;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3086db;
+}
+
+.infor {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: x-large;
+    font-family: Roboto;
+}
+
+.home {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: x-large;
+    font-family: Roboto;
+}
+
+.into {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: x-large;
+    font-family: Roboto;
+}
+
+.pole {
+    padding-bottom: 20px;
+    font-weight: 300;
+    font-size: large;
+}
